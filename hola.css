@@ -1,0 +1,38 @@
+body {
+	background-color:lightgrey;
+}
+
+h1 {
+	color:blue;
+}
+
+p {
+	color:green;
+	font-size: 32px;
+	margin-left: 217px;
+}
+
+ul {
+  border: 2px solid black;
+}
+
+ul li {
+	background: #cce5ff;
+}
+
+.lista {
+	color:red; 
+	font-size:20px;
+}
+
+#quix {
+	font-weight: bold;
+}
+img {align-left
+}
+img {align-right}
+
+div {text-align: left;
+}
+div {text align: right;
+}
